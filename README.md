@@ -2,6 +2,7 @@
 
 Database to keep RetroSpy for MiSTer up to date.
 
+# NOTE: This should already be done by default in the new update_all script, but I haven't had a chance to verify it myself yet
 Add the following in your download.ini at the root of your MiSTer's SD card.
 
 ```
